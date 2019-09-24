@@ -18,7 +18,7 @@ header {
 }
 
 footer {
-    color: hsla(326, 100%, 50%, 100);
+    color: hsla(326, 100%, 50%, 1);
     font-family: "ostrich_sansmedium", sans-serif;
     font-size: 1.6em;
     font-stretch: expanded;
