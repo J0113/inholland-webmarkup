@@ -1,0 +1,29 @@
+/* Opmaak voor Assignment 4.2 */
+
+@import url('https://fonts.googleapis.com/css?family=Cedarville+Cursive&display=swap');
+@font-face {
+    font-family: 'ostrich_sansmedium';
+    src: url("../fonts/ostrich-regular-webfont.woff2") format('woff2'),
+    url('../fonts/ostrich-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+header {
+    font-family: "Courier New", "Lucidia Console", sans-serif;
+    size: 31px;
+    color: #f00;
+}
+
+footer {
+    color: hsla(326, 100%, 50%, 100);
+    font-family: "ostrich_sansmedium", sans-serif;
+    size: 1.6em;
+    font-stretch: expanded;
+}
+
+p {
+    font-family: 'Cedarville Cursive', cursive;
+    font-variant: small-caps;
+}
