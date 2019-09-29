@@ -1,0 +1,32 @@
+/*paragraph*/
+/*headers*/
+/*table*/
+/*forms*/
+/*background*/
+
+p {
+    color: #00fcff;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    color: #19ff00;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+}
+
+table {
+    color: #0021ff;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+}
+
+form {
+    color: #ff00f2;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+}
+
+body {
+    background-color: #d4d4d4;
+}

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #0008ff;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #007bff;
+        stroke: #fff;
+        stroke-width: 12.87px;
+      }
+
+      .cls-4 {
+        fill: #af8655;
+        stroke: #000;
+        stroke-width: 4.68px;
+      }
+    </style>
+  </defs>
+  <ellipse id="Ovaal_1" data-name="Ovaal 1" class="cls-1" cx="500" cy="500" rx="350" ry="352"/>
+  <path id="Veelhoek_2" data-name="Veelhoek 2" class="cls-2" d="M817.234,20.545l-26.288,394.5-328.5-220.015Z"/>
+  <path id="Veelhoek_3" data-name="Veelhoek 3" class="cls-2" d="M175.113,35.855L515.121,172.993,226.352,398.879Z"/>
+  <circle id="Ovaal_2" data-name="Ovaal 2" class="cls-3" cx="381.5" cy="390.5" r="97.5"/>
+  <circle id="Ovaal_2_kopiëren" data-name="Ovaal 2 kopiëren" class="cls-3" cx="680.5" cy="390.5" r="97.5"/>
+  <ellipse id="Ovaal_3" data-name="Ovaal 3" class="cls-4" cx="556.5" cy="571" rx="124.5" ry="123"/>
+</svg>
