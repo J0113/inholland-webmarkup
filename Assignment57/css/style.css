@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+body {
+    width: 600px;
+    margin: 30px auto;
+    color: #fff;
+
+    background-image: url("../img/bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+section {
+    text-align: center;
+    margin: 10px;
+}
