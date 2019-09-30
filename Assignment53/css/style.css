@@ -1,0 +1,8 @@
+p .pinkpanther {
+    color: #f0f;
+}
+
+/*Verander p.hulk in *.hulk / .hulk en het werkt wel*/
+p.hulk {
+    color: #0f0;
+}
