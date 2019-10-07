@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+nav {
+    background-color: #444;
+    color: #fff;
+    height: 40px;
+    width: 100%;
+
+}
+
+nav h2 {
+    font-family: "Arial Black", sans-serif;
+    font-variant: all-small-caps;
+    float: left;
+    width: 30%;
+    margin-left: 30px;
+}
+
+nav .links a {
+    height: 40px;
+    float: left;
+}
+
+nav .links a {
+    text-decoration: inherit;
+    color: #fff;
+    height: 40px;
+    display: block;
+    margin: 10px 20px 5px 5px;
+}
+
+nav input {
+    float: right;
+    margin: 10px 30px 5px 5px;
+    height: 20px;
+    width: 10%;
+}
+
+section.text-header {
+    width: 100%;
+    clear: both;
+    text-align: center;
+    color: #777;
+    font-size: 18px;
+    margin: 40px 0px;
+    line-height: 30px;
+}
+
+section.imgs {
+    margin: 10px 10%;
+}
+
+article.mainimg {
+    float: left;
+}
+aside.moreimgs {
+    width: 20%;
+    float: right;
+}
+
+section.articles {
+    clear: both;
+    margin: 10%;
+}
+
+section.articles article {
+    margin-top: 5%;
+}
+
+#article1, #article2, #article3, #article4 {
+    width: 50%;
+    float: left;
+}
+
+section.articles article p,h3 {
+    float: left;
+    width: 54%;
+    margin: 3%;
+}
+
+section.articles article img {
+    float: left;
+    width: 40%;
+}
+
+footer aside {
+    width: 25%;
+    float: left;
+    background-color: #777;
+    color: #fff;
+}
